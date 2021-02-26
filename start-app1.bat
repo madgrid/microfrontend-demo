@@ -1,0 +1,1 @@
+cd app1 && npm install && npm run serve:single-spa

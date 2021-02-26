@@ -1,0 +1,1 @@
+cd navbar && npm install && npm run serve:single-spa

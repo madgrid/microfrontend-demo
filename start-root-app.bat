@@ -1,0 +1,1 @@
+cd root-html-file && npm install && npm run start
